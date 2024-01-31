@@ -1,0 +1,13 @@
+.container h1{
+    color: #0066ff;
+    font-size: 2.5rem;
+}
+.container p{
+    font-weight: 600;
+}
+.container p span{
+    color: #0066ff;
+    background-color: #a6c9ff;
+    padding: 4px 5px;
+    border-radius: 3px;
+}
